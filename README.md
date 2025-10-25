@@ -147,9 +147,9 @@
 <style data-href="https://static.parastorage.com/services/wix-thunderbolt/dist/TPABaseComponent.27e1e284.chunk.min.css">.OQ8Tzd,.nKphmK{overflow:hidden}.nKphmK{height:100%;position:relative;width:100%}.nKphmK:-ms-fullscreen{min-height:auto!important}.nKphmK:fullscreen{min-height:auto!important}.pvlz2w{visibility:hidden}</style>
 <style data-href="https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.bae0ce0c.chunk.min.css">.TWFxr5{height:auto!important}.May50y{overflow:hidden!important}</style>
 <title>Home | fitness-coach</title>
-  <link rel="canonical" href="https://shewsfit.wixsite.com/shews-fitness-1"/>
+  <link rel="canonical" href="sloyerr.github.io"/>
   <meta property="og:title" content="Home | fitness-coach"/>
-  <meta property="og:url" content="https://shewsfit.wixsite.com/shews-fitness-1"/>
+  <meta property="og:url" content="sloyerr.github.io"/>
   <meta property="og:site_name" content="Shews Fitness 1"/>
   <meta property="og:type" content="website"/>
   <link rel="alternate" href="https://shewsfit.wixsite.com/shews-fitness-1/blog-feed.xml" type="application/rss+xml" title="Shews Fitness 1 - RSS"/>
